@@ -3,3 +3,8 @@
             Ready to Mergin
 
           Merging starts Here
+
+
+
+Text adding from branch1
+ending of branch1
