@@ -6,5 +6,10 @@
 
 
 
+
 Text adding from branch1
 ending of branch1
+Starting of branch2
+This text came from branch2
+end of branch2
+
